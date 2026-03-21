@@ -1,0 +1,78 @@
+                                                    1
+
+IN THE UNITED STATES COURT OF APPEALS
+FOR THE FOURTH CIRCUIT
+
+────────────────────────────────────────
+
+No. 24-1234
+
+DUKE ENERGY CAROLINAS, LLC,
+        Petitioner,
+v.
+UNITED STATES ENVIRONMENTAL PROTECTION AGENCY,
+        Respondent.
+
+────────────────────────────────────────
+
+TABLE OF CONTENTS
+
+INTRODUCTION...................................1
+BACKGROUND.....................................3
+ARGUMENT.......................................7
+  I. THE EPA EXCEEDED ITS STATUTORY AUTHORITY....7
+  A. The Clean Air Act Does Not Permit...........9
+CONCLUSION....................................22
+TABLE OF AUTHORITIES..........................23
+
+Cases
+Sierra Club v. EPA, 123 F.3d 456 (4th Cir. 2020)...7
+Chevron U.S.A. Inc. v. NRDC, 467 U.S. 837 (1984)...8
+
+                                                    2
+
+INTRODUCTION
+
+This case presents a fundamental question of administrative law: whether the Environmental
+Protection Agency may impose compliance obligations that exceed the plain text of the Clean Air
+Act, 42 U.S.C. § 7401 et seq. The answer is no. See Sierra Club v. EPA, 123 F.3d 456, 461
+(4th Cir. 2020). Id. at 463. The agency's rule must be vacated.
+
+Duke Energy Carolinas, LLC ("Duke Energy" or "Petitioner") respectfully submits this brief
+pursuant to 40 C.F.R. § 60.1 and the Court's scheduling order. The stakes could not be higher.
+Supra note 4. The agency's overreach threatens billions in compliance costs and the reliability
+of the electrical grid for millions of Americans in the Southeast.
+
+                                                    3
+
+BACKGROUND
+
+Duke Energy operates coal-fired generating facilities subject to the EPA's New Source
+Performance Standards. The challenged rule, promulgated under section 111 of the Clean Air Act,
+requires reductions that the agency's own modeling concedes are technically infeasible for existing
+units. See id. at 471-72.
+
+ARGUMENT
+
+I. THE EPA EXCEEDED ITS STATUTORY AUTHORITY UNDER THE CLEAN AIR ACT
+
+The EPA's rule cannot survive scrutiny under the major questions doctrine. West Virginia v. EPA,
+597 U.S. 697 (2022). When an agency claims authority to resolve a question of vast economic and
+political significance, it must point to clear congressional authorization. Id. at 721.
+
+A. The Clean Air Act's Text Does Not Support The Agency's Interpretation
+
+Section 111 of the Clean Air Act authorizes standards based on the "best system of emission
+reduction" that is "adequately demonstrated." 42 U.S.C. § 7411(a)(1). The plain meaning of
+"adequately demonstrated" requires that the technology actually work. Id.
+
+CONCLUSION
+
+For the foregoing reasons, this Court should vacate the EPA's rule and remand for further
+proceedings consistent with this opinion.
+
+Respectfully submitted,
+
+Counsel for Petitioner Duke Energy Carolinas, LLC
+
+                                                    22
